@@ -360,3 +360,4 @@ Copyright (c) 2012-2024 Jeremy Long. All Rights Reserved.
 
   [wiki]: https://github.com/jeremylong/DependencyCheck/wiki
   [notices]: https://github.com/jeremylong/DependencyCheck/blob/main/NOTICE.txt
+
